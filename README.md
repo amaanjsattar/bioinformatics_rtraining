@@ -8,7 +8,7 @@ This repository contains responses to the Boutros Lab R Training materials for i
 
 ## License
 
-Author: Amaan Jogia-Sattar (ajogiasattar@mednet.ucla.edu)
+Author: Amaan Jogia-Sattar (amaanjsattar@berkeley.edu)
 
 [This project] is licensed under the GNU General Public License version 2. See the file LICENSE.md for the terms of the GNU GPL license.
 
